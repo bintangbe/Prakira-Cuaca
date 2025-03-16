@@ -1,2 +1,2 @@
 # api-cuaca.github.io
-Website untuk cek cuaca suatu kota / negara
+Website ini untuk mengecek cuaca suatu negara / kota
